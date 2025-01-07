@@ -2,8 +2,6 @@
 
 # 💻 Full Stack Developer | Software Engineer  
 
-Bienvenido a mi perfil de GitHub | Welcome to my GitHub Profile!  
-
 ---
 ![About Me Banner](assets/enBanner.png)
 <details>
