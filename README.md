@@ -5,9 +5,8 @@
 ---
 ![About Me Banner](assets/enBanner.png)
 <details>
-<summary>🇺🇸 English Version</summary>
+<summary>🇺🇸 About Me</summary>
 
-### About Me  
 Hi there! 👋 I'm a passionate **Software Engineer** and **Full Stack Developer** with experience in building web and mobile applications using modern technologies. I love solving real-world problems through clean, efficient, and scalable code.  
 
 ---
@@ -35,17 +34,17 @@ Hi there! 👋 I'm a passionate **Software Engineer** and **Full Stack Developer
 ---
 
 ### 📬 Connect With Me
-- [LinkedIn](https://linkedin.com/in/anahinaranjo-eldinosaur)  
+- [LinkedIn](assets/icons/linkedin.png)(https://linkedin.com/in/anahinaranjo-eldinosaur)  
 - [Portfolio](https://eldinosaur.github.io)  
+- 
 
 </details>
 
 ---
 ![Sobre Mi Banner](assets/esBanner.png)
 <details>
-<summary>🇪🇸 Versión en Español</summary>
+<summary>🇪🇸 Sobre Mí</summary>
 
-### Sobre Mí  
 ¡Hola! 👋 Soy un apasionado **Ingeniero de Software** y **Desarrollador Full Stack** con experiencia en la construcción de aplicaciones web y móviles utilizando tecnologías modernas. Me encanta resolver problemas del mundo real a través de código limpio, eficiente y escalable.  
 
 ---
