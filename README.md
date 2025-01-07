@@ -5,7 +5,7 @@
 Bienvenido a mi perfil de GitHub | Welcome to my GitHub Profile!  
 
 ---
-
+![About Me Banner](assets/enBanner.png)
 <details>
 <summary>🇺🇸 English Version</summary>
 
@@ -43,7 +43,7 @@ Hi there! 👋 I'm a passionate **Software Engineer** and **Full Stack Developer
 </details>
 
 ---
-
+![Sobre Mi Banner](assets/esBanner.png)
 <details>
 <summary>🇪🇸 Versión en Español</summary>
 
