@@ -1,4 +1,4 @@
-![Welcome Banner](assets\DinoBanner.png)
+![Welcome Banner](assets/DinoBanner.png)
 
 # 💻 Full Stack Developer | Software Engineer  
 
