@@ -1,3 +1,5 @@
+![Welcome Banner](assets\DinoBanner.png)
+
 # 💻 Full Stack Developer | Software Engineer  
 
 Bienvenido a mi perfil de GitHub | Welcome to my GitHub Profile!  
