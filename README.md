@@ -71,7 +71,6 @@ Hi there! 👋 I'm a passionate **Software Engineer** and **Full Stack Developer
 ---
 
 ### 📬 Conecta Conmigo
-- [LinkedIn](https://linkedin.com/in/anahinaranjo-eldinosaur)  
-- [Portafolio](https://eldinosaur.github.io)  
+[![LinkedIn](assets/icons/linkedin.png)](https://linkedin.com/in/anahinaranjo-eldinosaur)  [![Portfolio](assets/icons/internet.png)](https://eldinosaur.github.io)
 
 </details>
