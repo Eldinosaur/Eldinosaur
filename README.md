@@ -34,8 +34,8 @@ Hi there! 👋 I'm a passionate **Software Engineer** and **Full Stack Developer
 ---
 
 ### 📬 Connect With Me
- [![LinkedIn](assets/icons/linkedin.png)](https://linkedin.com/in/anahinaranjo-eldinosaur)  [![Portfolio](assets/icons/internet.png)](https://eldinosaur.github.io) [![Mail](assets/icons/mail.png)](eldinosaur.dev@gmail.com
-)
+ [![LinkedIn](assets/icons/linkedin.png)](https://linkedin.com/in/anahinaranjo-eldinosaur)  [![Portfolio](assets/icons/internet.png)](https://eldinosaur.github.io) 
+ ## eldinosaur.dev@gmail.com
 
 
 </details>
